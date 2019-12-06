@@ -4,6 +4,6 @@ public class HelloWorld {
     System.out.println("Hello, Badvel");
     System.out.println("Hello. mydkur");
     System.out.println("Hello. pulivendula");
-    system.out.println("hello. rajampeta");
+    system.out.println("Hello. rajampeta");
   }
 }
